@@ -1,6 +1,6 @@
 # StarShip-Raider
-Space game
+Перевод книги и создание игрового проекта
 
-![image](https://github.com/SergeyS85/StarShip-Raider/blob/master/screenshot_game1.png)
+![image](https://github.com/SergeyS85/The_book_of_Create_2D_engine/blob/master/04-03-2023%2018-49-46.png)
 
-![image](https://github.com/SergeyS85/StarShip-Raider/blob/master/screenshot_game2.png)
+
